@@ -4,7 +4,9 @@
 ---
 
 ## **Overview**
-This project implements a **face authentication system** using **classical image processing techniques** without deep learning models. It uses **facial landmark detection, alignment, and feature normalization** to compare facial features based on **Euclidean distance**.
+This project was developed as the **final project** for the **"Introduction to Image Processing"** course at **National Dong Hwa University (NDHU)**. The goal was to implement a **face authentication system** using **classical image processing techniques** without relying on deep learning models.  
+
+It uses **facial landmark detection, alignment, and feature normalization** to compare facial features based on **Euclidean distance**.
 
 ### **Features**
 - Face alignment based on **eye landmarks**  
