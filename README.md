@@ -94,7 +94,7 @@ python face_auth.py
 python evaluate.py
 ```
 
-## ** Key Learnings**
+## **Key Learnings**
 - Preprocessing (alignment & normalization) is critical in face recogition.
 - Feature selection (excluding jawline) improves robustness to angles.
 - Euclidean distance works for simple comparisons but has limitations.
